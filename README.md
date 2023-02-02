@@ -4,6 +4,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Naam deeltaak
 
+![New Drawing 7](https://user-images.githubusercontent.com/64197688/216203653-23ed04ee-b1c1-46ce-8f3c-c8978d643169.svg)
+
+
 
 ## Licentie
 
